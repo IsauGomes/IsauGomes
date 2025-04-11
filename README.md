@@ -21,3 +21,6 @@ Essa são as linguagens de programação que eu estou usando ou ja usei: _**Pyth
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
 
+
+
+
