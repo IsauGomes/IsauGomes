@@ -19,6 +19,10 @@ Essa são as linguagens de programação que eu estou usando ou ja usei: _**Pyth
 
 
 
+### 🌐 Onde me encontrar
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=Gmail&logoColor=white)](https://www.linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
 
 
 
